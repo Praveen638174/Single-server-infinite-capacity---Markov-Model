@@ -19,13 +19,14 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
-![alt text](3.png)
 
+
+ 
 ## Program
-
 ```
-Name: Praveen Raj G
-Reg No: 212224040245
+
+
+
 
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -52,12 +53,12 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
+
 ```
 
 ## Output :
 
-![alt text](4.png)
+<img width="860" height="404" alt="Screenshot 2026-03-13 183419" src="https://github.com/user-attachments/assets/763ceffa-5242-49e2-8151-e9dbbe1aaa17" />
 
 ## Result :
-
-Thus the python program is implemented and executed successfully.
+Thus, the performance measures of the single-server queue system are successfully calculated.
